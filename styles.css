@@ -55,4 +55,5 @@ html {
     width: 10vw;
     padding: 16px 20px;
     border: none;
+    cursor: pointer;
 }

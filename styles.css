@@ -1,0 +1,59 @@
+html {
+    background-color: black;
+}
+
+.logotext {
+    margin-top: 8vh;
+    font-size: 150%;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.toptext {
+    color: white;
+    display: inline;
+}
+
+.bottomtext {
+    display: inline;
+    background-color: orange;
+    width: 4.5vw;
+}
+
+.form1 {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.details {
+    font-size: 125%;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: rgb(36, 36, 36);
+    width: 30%;
+    text-align: center;
+    padding: 12px 0px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+    border: 3px solid none;
+    transition: 0.5s;
+    outline: none;
+}
+.details:focus {
+    border: 3px solid rgb(255, 255, 255);
+}
+
+.submit {
+    margin-top: 0.5%;
+    font-size: 125%;
+    font-family: 'Raleway', sans-serif;
+    background-color: orange;
+    text-align: center;
+    width: 10%;
+    padding: 16px 20px;
+    border: none;
+}

@@ -4,7 +4,7 @@ html {
 
 .logotext {
     margin-top: 8vh;
-    font-size: 1.3vw;
+    font-size: 150%;
     font-family: 'Raleway', sans-serif;
     text-align: center;
 }
@@ -26,7 +26,7 @@ html {
 }
 
 .details {
-    font-size: 1.1vw;
+    font-size: 125%;
     font-family: 'Raleway', sans-serif;
     color: white;
     border-top-style: hidden;
@@ -36,8 +36,8 @@ html {
     background-color: rgb(36, 36, 36);
     width: 30vw;
     text-align: center;
-    padding: 1.5vh 0vw;
-    margin: 1vh 5vw;
+    padding: 12px 0px;
+    margin: 8px 10px;
     box-sizing: border-box;
     transition: 0.5s;
     outline: none;
@@ -47,12 +47,12 @@ html {
 }
 
 .submit {
-    margin-top: 1.5vh;
-    font-size: 1.1vw;
+    margin-top: 0.5%;
+    font-size: 125%;
     font-family: 'Raleway', sans-serif;
     background-color: orange;
     text-align: center;
     width: 10vw;
-    padding: 1.5vh 1vw;
+    padding: 16px 20px;
     border: none;
 }
